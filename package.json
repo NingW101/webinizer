@@ -40,7 +40,7 @@
     "@types/libnpmsearch": "^2.0.3",
     "@types/lodash": "^4.14.191",
     "@types/mocha": "^10.0.1",
-    "@types/multiparty": "^0.0.33",
+    "@types/multiparty": "^0.0.36",
     "@types/node": "^18.11.18",
     "@types/npm-package-arg": "^6.1.1",
     "@types/pacote": "^11.1.5",
