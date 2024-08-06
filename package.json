@@ -97,7 +97,7 @@
     "semver": "^7.5.4",
     "shelljs": "^0.8.5",
     "shlex": "^2.1.2",
-    "write-file-atomic": "^5.0.0",
+    "write-file-atomic": "^5.0.1",
     "ws": "^8.17.1"
   }
 }
